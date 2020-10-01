@@ -1,0 +1,222 @@
+/*
+Theme Name: davis-design-theme
+Author: Luis Scura
+Author URI: http://wordpress.org/
+Description: Just a simple wordpress HTML/CSS theme.
+Version: 1.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: davis-design-theme
+*/
+*{
+    margin:0px;
+    padding: 0px;
+}
+body{
+    background: #000000;
+    color: #ffffff;
+}
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('/avenir-text/Metropolis/Metropolis-Regular.otf'); /* IE9 Compat Modes */
+    src: url('/avenir-text/Metropolis/Metropolis-Regular.otf') format('embedded-opentype'), /* IE6-IE8 */
+         url('/avenir-text/Metropolis/Metropolis-Regular.otf') format('woff2'), /* Super Modern Browsers */
+         url('/avenir-text/Metropolis/Metropolis-Regular.otf') format('woff'), /* Pretty Modern Browsers */
+         url('/avenir-text/Metropolis/Metropolis-Regular.otf')  format('truetype'), /* Safari, Android, iOS */
+         url('/avenir-text/Metropolis/Metropolis-Regular.otf') format('svg'); /* Legacy iOS */
+}
+/*
+---- TEXT CONTENT
+*/
+.page-header{
+    margin: 25px 0 25px 0;
+}
+.page-header .home-title > h1{
+    color: #969696;
+    padding: 10px;
+    font-size: 37px;
+    font-family: serif;
+}
+.page-header .home-title h1 > span{
+    color: #ffff;
+}
+.main-container .subtitle{
+    margin-bottom: 30px;
+}
+.main-container .subtitle h2{
+    display: block;
+    color: #f8f5f5;
+    font-size: 33px;
+    letter-spacing: 1px;
+    font-family: 'Avenir Next';
+}
+.main-container .paragraph > p{
+    font-family: 'Avenir Next';
+    color: #b4b4b4;
+    letter-spacing: 1px;
+    line-height: 27px;
+    font-size: 17px;
+}
+/*
+---- GALLERY PHOTOS GRID
+*/
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr );
+    /* grid-template-columns: auto auto auto; */
+    grid-gap: 1em;
+    grid-auto-rows: 240px auto;
+    /* grid-auto-flow: dense; */
+    margin-bottom: 40px;
+}
+.grid-container .gallery-item{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.grid-container .gallery-item .image{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.grid-container .gallery-item .image a .middle-text{
+    transition: .2s linear;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    opacity: 0;
+    cursor: pointer;
+    font-size: 25px;
+    color: #ffffff;
+}
+.gallery-item .image img{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+    object-position:50% 50%;
+    cursor:pointer;
+    filter: grayscale(0%);
+}
+.grid-container .h-2{
+    grid-row: span 2;
+}
+/*
+---- FOOTER
+*/
+.page-footer > div ul li {
+    list-style: none;
+}
+.page-footer > .container ul li a {
+    text-decoration: none;
+    color: #aaa7a7fa;
+    font-family: 'Avenir Next';
+    font-size: 11px;
+    letter-spacing: 2px;
+}
+.page-footer .footer-copyright{
+    background: #5a5a5a38;
+    height: 50px;
+}
+.page-footer .footer-copyright > p{
+    font-size: 8.5px;
+    color: #877b7bfa;
+    letter-spacing: 1px;
+    font-family: 'Avenir Next';
+    padding-top: 17px;
+    cursor: pointer;
+}
+/*
+--- MEDIA QUERIES
+*/
+@media only screen and ( min-width: 1200px ) {
+    .gallery-container:hover img{
+        filter: grayscale(100%);
+        opacity: 0.7;
+        transition: all 0.2s ease;
+    }
+    .gallery-container:hover .gallery-item .image  > a .middle-text{
+        opacity: 1;
+    }
+    .page-footer .container div ul li:hover > .custom-hover{
+        color: #ffffff;
+    }
+    .page-footer .footer-copyright > p:hover{
+        color: #ffffff;
+        cursor: pointer;
+    }
+    /* .grid-container .h-2{
+        height: 567px
+    } */
+
+}
+@media only screen and ( max-width: 992px){
+    .page-footer div > .footer-col{
+        text-align: center;
+    }
+    .page-footer .footer-col > ul li {
+        padding-bottom: 15px;
+        font-size: 23px;
+    }
+}
+@media only screen and ( min-width: 769px) and ( max-width: 992px){
+    .container{
+        min-width: 100%;
+    }
+    .page-footer .footer{
+        display: inline;
+    }
+    .page-footer .footer > ul li {
+        padding-bottom: 15px;
+    }
+}
+@media only screen and ( max-width: 768px ) {
+    .container{
+        min-width: 100%;
+    }
+    .page-header .home-title > h1{
+        font-size: 25px;
+    }
+    .main-container .subtitle > h2 {
+        font-size: 20px;
+    }
+    .main-container .subtitle h2 > br {
+        display: none;
+    }
+    .main-container div > button { 
+        font-size: 25px;
+        background: #000000;
+        border-color: #ffffff;
+        width: 140px;
+    }
+    .main-container div > button a {
+        color: #ffffff;
+        font-size: 18px;
+        text-decoration: none;
+    }
+    .grid-container{
+        grid-template-columns: repeat(1, 1fr );
+    }
+    .grid-container .gallery-item .image .middle-text {
+        opacity: 0;
+    }
+}
+/* <?php while ( have_posts() ) : the_post(); ?>
+  <article class="<?php post_class(); ?>" id="post-<?php the_ID(); ?>">
+    <h2 class="entry-title"><?php the_title(); ?></h2>
+    <?php if ( !is_page() ):?>
+      <section class="entry-meta">
+      <p>Posted on <?php the_date();?> by <?php the_author();?></p>
+      </section>
+    <?php endif; ?>
+    <section class="entry-content">
+      <?php the_content(); ?>
+    </section>
+    <section class="entry-meta"><?php if ( count( get_the_category() ) ) : ?>
+      <span class="category-links">
+        Posted under: <?php echo get_the_category_list( ', ' ); ?>
+      </span>
+    <?php endif; ?></section>
+  </article>
+<?php endwhile; ?> */

@@ -1,0 +1,89 @@
+
+Deleted customizer Settings {"theme-auto-version":"2.3.1","is_theme_queue_running":false,"_astra_pb_compatibility_completed":true,"astra-addon-auto-version":"2.3.2","is_astra_addon_queue_running":false}
+Deleted - Site Options []
+Inserted WP Form 8
+Imported Customizer Settings {"astra-settings":{"blog-single-post-structure":["single-image","single-title-meta"],"blog-single-width":"default","blog-single-max-width":1200,"blog-single-meta":["comments","category","author"],"blog-post-structure":["image","title-meta"],"blog-width":"default","blog-max-width":1200,"blog-post-content":"excerpt","blog-meta":["comments","category","author"],"text-color":"#1d1d23","link-color":"#ff3a6f","theme-color":"#ff3a6f","link-h-color":"#ff3a6f","footer-bg-obj":{"background-color":"rgba(0,0,0,0)","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-color":"#476d80","footer-link-color":"#476d80","footer-link-h-color":"#ff3a6f","footer-adv-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-adv-text-color":"","footer-adv-link-color":"","footer-adv-link-h-color":"","footer-adv-wgt-title-color":"","button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#ff3a6f","button-bg-h-color":"#ce297e","theme-button-padding":{"desktop":{"top":"13","right":"40","bottom":"13","left":"40"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-radius":50,"theme-button-border-group-border-size":{"top":"","right":"","bottom":"","left":""},"footer-sml-layout":"footer-sml-layout-2","footer-sml-section-1":"custom","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | <a href=\"#\">Credits<\/a>","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Powered by <a href=\"#\">[site_title]<\/a>","footer-sml-dist-equal-align":true,"footer-sml-divider":0,"footer-sml-divider-color":"#7a7a7a","footer-layout-width":"content","ast-header-retina-logo":"https:\/\/websitedemos.net\/yoga-center-02\/wp-content\/uploads\/sites\/286\/2018\/10\/logo@2x-free-img.png","ast-header-logo-width":"","ast-header-responsive-logo-width":{"desktop":"","tablet":"","mobile":"140"},"display-site-title":false,"display-site-tagline":0,"logo-title-inline":0,"disable-primary-nav":false,"header-layouts":"header-main-layout-1","header-main-rt-section":"none","header-display-outside-menu":false,"header-main-rt-section-html":"<button>Contact Us<\/button>","header-main-rt-section-button-text":"Button","header-main-rt-section-button-link":"https:\/\/www.wpastra.com","header-main-rt-section-button-link-option":{"url":"https:\/\/www.wpastra.com","new_tab":false,"link_rel":""},"header-main-rt-section-button-style":"theme-button","header-main-rt-section-button-text-color":"","header-main-rt-section-button-back-color":"","header-main-rt-section-button-text-h-color":"","header-main-rt-section-button-back-h-color":"","header-main-rt-section-button-padding":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""}},"header-main-rt-section-button-border-size":{"top":"","right":"","bottom":"","left":""},"header-main-sep":0,"header-main-sep-color":"","header-main-layout-width":"content","primary-submenu-border":{"top":"2","right":"0","bottom":"0","left":"0"},"primary-submenu-item-border":false,"primary-submenu-b-color":"","primary-submenu-item-b-color":"","header-main-menu-label":"","header-main-menu-align":"inline","header-main-submenu-container-animation":"fade","mobile-header-breakpoint":"","mobile-header-logo":"","mobile-header-logo-width":"","site-layout":"ast-full-width-layout","site-content-width":1200,"site-layout-outside-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"site-content-layout":"boxed-container","single-page-content-layout":"default","single-post-content-layout":"default","archive-post-content-layout":"default","body-font-family":"'Roboto', sans-serif","body-font-variant":"400","body-font-weight":"400","font-size-body":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"body-line-height":"","para-margin-bottom":"","body-text-transform":"","headings-font-family":"'Playfair Display', serif","headings-font-weight":"400","headings-text-transform":"","headings-line-height":"","font-size-site-title":{"desktop":35,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-entry-title":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-archive-summary-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h1":{"desktop":"60","tablet":"40","mobile":"34","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"42","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"20","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":20,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":18,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"site-sidebar-layout":"no-sidebar","site-sidebar-width":30,"single-page-sidebar-layout":"default","single-post-sidebar-layout":"default","archive-post-sidebar-layout":"default","footer-adv":"disabled","footer-adv-border-width":"","footer-adv-border-color":"#7a7a7a","mobile-header-toggle-btn-style":"outline","hide-custom-menu-mobile":1,"mobile-header-toggle-target":"icon","transparent-header-logo":"","transparent-header-retina-logo":"","different-transparent-logo":0,"different-transparent-retina-logo":0,"transparent-header-logo-width":{"desktop":"","tablet":"","mobile":""},"transparent-header-enable":0,"transparent-header-disable-archive":1,"transparent-header-disable-latest-posts-index":1,"transparent-header-on-devices":"both","transparent-header-main-sep":0,"transparent-header-main-sep-color":"","transparent-header-bg-color":"","transparent-header-color-site-title":"","transparent-header-color-h-site-title":"","transparent-menu-bg-color":"","transparent-menu-color":"","transparent-menu-h-color":"","transparent-submenu-bg-color":"","transparent-submenu-color":"","transparent-submenu-h-color":"","transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-font-family":"inherit","breadcrumb-font-weight":"inherit","breadcrumb-text-transform":"","breadcrumb-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-separator-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-bg-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-spacing":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"h1-color":"","h2-color":"","h3-color":"","h4-color":"","h5-color":"","h6-color":"","font-family-h1":"inherit","font-weight-h1":"normal","text-transform-h1":"uppercase","line-height-h1":"","font-family-h2":"inherit","font-weight-h2":"normal","text-transform-h2":"uppercase","line-height-h2":"","font-family-h3":"inherit","font-weight-h3":"normal","text-transform-h3":"capitalize","line-height-h3":"","font-weight-button":"inherit","font-family-button":"inherit","font-size-button":{"desktop":"15","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"text-transform-button":"","theme-btn-line-height":"1","theme-btn-letter-spacing":"","header-main-rt-section-search-box-type":"slide-search","below-header-section-2-search-box-type":"slide-search","below-header-section-1-search-box-type":"slide-search","above-header-section-1-search-box-type":"slide-search","above-header-section-2-search-box-type":"slide-search","astra-addon-auto-version":"2.3.2","theme-auto-version":"2.3.1","different-retina-logo":true,"above-header-submenu-item-border":1,"below-header-submenu-item-border":1,"mobile-header-toggle-btn-border-radius":5,"headings-font-variant":"","wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"_astra_pb_compatibility_completed":true,"is_theme_queue_running":false,"submenu-open-below-header":false,"is_addon_queue_running":true,"button-h-padding":50,"heading-base-color":"#1d1d23","is_astra_addon_queue_running":false},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/286/wxr.xml
+Inserted - Term 2 - {"term_id":2,"name":"Yoga","slug":"yoga","term_group":0,"term_taxonomy_id":2,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 3 - {"term_id":3,"name":"Main Menu","slug":"main-menu","term_group":0,"term_taxonomy_id":3,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 4 - {"term_id":4,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":4,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 5 - {"term_id":5,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":5,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 12 - page - Home
+Inserted - Post 30 - attachment - favicon-free-img
+Inserted - Post 31 - attachment - logo@2x-free-img
+Inserted - Post 32 - attachment - logo-free-img
+Inserted - Post 34 - page - About Me
+Inserted - Post 35 - page - Classes
+Inserted - Post 36 - nav_menu_item - 
+Inserted - Post 37 - nav_menu_item - 
+Inserted - Post 38 - nav_menu_item - 
+Inserted - Post 40 - attachment - divider-free-img.png
+Inserted - Post 41 - attachment - yoga1-free-img.png
+Inserted - Post 42 - attachment - yoga6-free-img.png
+Inserted - Post 43 - attachment - yoga3-free-img.png
+Inserted - Post 44 - attachment - yoga5-free-img.png
+Inserted - Post 45 - attachment - yoga4-free-img.png
+Inserted - Post 46 - attachment - yoga2-free-img.png
+Inserted - Post 47 - attachment - bg-logo-free-img.png
+Inserted - Post 48 - attachment - awa1-free-img.png
+Inserted - Post 49 - attachment - awa4-free-img.png
+Inserted - Post 50 - attachment - awa2-free-img-1.png
+Inserted - Post 51 - attachment - awa3-free-img.png
+Inserted - Post 52 - attachment - awa5-free-img.png
+Inserted - Post 56 - attachment - slide4-free-img.jpg
+Inserted - Post 58 - attachment - quote-free-img.png
+Inserted - Post 59 - attachment - client1-free-img-4.png
+Inserted - Post 60 - attachment - client4-free-img-4.png
+Inserted - Post 61 - attachment - client3-free-img-4.png
+Inserted - Post 64 - attachment - yoga-instructor-free-img.jpg
+Inserted - Post 66 - attachment - nutritionist-free-img.jpg
+Inserted - Post 68 - attachment - slide1-free-img.jpg
+Inserted - Post 69 - attachment - slide3-free-img.jpg
+Inserted - Post 70 - attachment - slide2-free-img.jpg
+Inserted - Post 71 - attachment - slide5-free-img.jpg
+Inserted - Post 72 - attachment - slide6-free-img.jpg
+Inserted - Post 73 - attachment - discount-free-img.png
+Inserted - Post 81 - page - Publications
+Inserted - Post 89 - attachment - book3-free-img
+Inserted - Post 93 - nav_menu_item - 
+Inserted - Post 94 - page - Get Fit
+Inserted - Post 97 - nav_menu_item - 
+Inserted - Post 185 - attachment - weights-free-img
+Inserted - Post 205 - attachment - blog-1
+Inserted - Post 295 - attachment - gymnastics-free-img
+Inserted - Post 346 - wp_block - Blog-hero-sec
+Inserted - Post 608 - elementor-hf - Footer
+Inserted - Post 638 - attachment - banner-03
+Inserted - Post 646 - attachment - image-01
+Inserted - Post 649 - attachment - image-03
+Inserted - Post 665 - attachment - footer-img-05
+Inserted - Post 667 - attachment - image-04
+Inserted - Post 695 - attachment - home-banner-02
+Inserted - Post 711 - attachment - yoga-instructor-yoast
+Inserted - Post 713 - attachment - yoga-image-01
+Inserted - Post 718 - attachment - publication-image-03
+Inserted - Post 720 - attachment - yoga-image-02
+Inserted - Post 722 - attachment - yoga-image-03
+Inserted - Post 726 - elementor_library - Default Kit
+Inserted - Post 728 - attachment - author-img
+Complete 
+Batch Process Started!
+Starter Templates - Importing Images for Blog name 'Pura Vida' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "2"
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing WordPress Page - for Elementor ---- "608"
+---- Processing WordPress Page - for Elementor ---- "94"
+---- Processing WordPress Page - for Elementor ---- "81"
+---- Processing WordPress Page - for Elementor ---- "35"
+---- Processing WordPress Page - for Elementor ---- "34"
+---- Processing WordPress Page - for Elementor ---- "12"
+---- Processing Mapping - for Astra Pro ----
+---- Processing MISC ----
+Post ID: 97
+Post ID: 93
+Post ID: 36
+Post ID: 37
+Post ID: 38
+Batch Process Complete!
